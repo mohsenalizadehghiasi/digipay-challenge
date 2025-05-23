@@ -1,0 +1,15 @@
+E:\DigipayChallenge\Weather.Application\obj\Debug\net8.0\Weather.Application.csproj.AssemblyReference.cache
+E:\DigipayChallenge\Weather.Application\obj\Debug\net8.0\Weather.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\DigipayChallenge\Weather.Application\obj\Debug\net8.0\Weather.Application.AssemblyInfoInputs.cache
+E:\DigipayChallenge\Weather.Application\obj\Debug\net8.0\Weather.Application.AssemblyInfo.cs
+E:\DigipayChallenge\Weather.Application\obj\Debug\net8.0\Weather.Application.csproj.CoreCompileInputs.cache
+E:\DigipayChallenge\Weather.Application\bin\Debug\net8.0\Weather.Application.deps.json
+E:\DigipayChallenge\Weather.Application\bin\Debug\net8.0\Weather.Application.dll
+E:\DigipayChallenge\Weather.Application\bin\Debug\net8.0\Weather.Application.pdb
+E:\DigipayChallenge\Weather.Application\bin\Debug\net8.0\Weather.Infrastructure.dll
+E:\DigipayChallenge\Weather.Application\bin\Debug\net8.0\Weather.Infrastructure.pdb
+E:\DigipayChallenge\Weather.Application\obj\Debug\net8.0\Weather..39DBAE9F.Up2Date
+E:\DigipayChallenge\Weather.Application\obj\Debug\net8.0\Weather.Application.dll
+E:\DigipayChallenge\Weather.Application\obj\Debug\net8.0\refint\Weather.Application.dll
+E:\DigipayChallenge\Weather.Application\obj\Debug\net8.0\Weather.Application.pdb
+E:\DigipayChallenge\Weather.Application\obj\Debug\net8.0\ref\Weather.Application.dll
