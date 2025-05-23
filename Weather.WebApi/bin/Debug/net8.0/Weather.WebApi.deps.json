@@ -9,8 +9,7 @@
       "Weather.WebApi/1.0.0": {
         "dependencies": {
           "Weather.Application": "1.0.0",
-          "Weather.Infrastructure": "1.0.0",
-          "Weather.Worker": "1.0.0"
+          "Weather.Infrastructure": "1.0.0"
         },
         "runtime": {
           "Weather.WebApi.dll": {}
@@ -275,32 +274,6 @@
         },
         "runtime": {
           "lib/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll": {
-            "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.0.525.21509"
-          }
-        }
-      },
-      "Microsoft.Extensions.FileProviders.Abstractions/9.0.5": {
-        "dependencies": {
-          "Microsoft.Extensions.Primitives": "9.0.5"
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll": {
-            "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.0.525.21509"
-          }
-        }
-      },
-      "Microsoft.Extensions.Hosting.Abstractions/9.0.5": {
-        "dependencies": {
-          "Microsoft.Extensions.Configuration.Abstractions": "9.0.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.5",
-          "Microsoft.Extensions.Diagnostics.Abstractions": "9.0.5",
-          "Microsoft.Extensions.FileProviders.Abstractions": "9.0.5",
-          "Microsoft.Extensions.Logging.Abstractions": "9.0.5"
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll": {
             "assemblyVersion": "9.0.0.0",
             "fileVersion": "9.0.525.21509"
           }
@@ -778,18 +751,6 @@
             "fileVersion": "1.0.0.0"
           }
         }
-      },
-      "Weather.Worker/1.0.0": {
-        "dependencies": {
-          "Microsoft.Extensions.Hosting.Abstractions": "9.0.5",
-          "Weather.Infrastructure": "1.0.0"
-        },
-        "runtime": {
-          "Weather.Worker.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
@@ -938,20 +899,6 @@
       "sha512": "sha512-6YfTcULCYREMTqtk+s3UiszsFV2xN2FXtxdQpurmQJY9Cp/QGiM4MTKfJKUo7AzdLuzjOKKMWjQITmvtK7AsUg==",
       "path": "microsoft.extensions.diagnostics.abstractions/9.0.5",
       "hashPath": "microsoft.extensions.diagnostics.abstractions.9.0.5.nupkg.sha512"
-    },
-    "Microsoft.Extensions.FileProviders.Abstractions/9.0.5": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-LLm+e8lvD+jOI+blHRSxPqywPaohOTNcVzQv548R1UpkEiNB2D+zf3RrqxBdB1LDPicRMTnfiaKJovxF8oX1bQ==",
-      "path": "microsoft.extensions.fileproviders.abstractions/9.0.5",
-      "hashPath": "microsoft.extensions.fileproviders.abstractions.9.0.5.nupkg.sha512"
-    },
-    "Microsoft.Extensions.Hosting.Abstractions/9.0.5": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-3GA/dxqkP6yFe18qYRgtKYuN2onC8NfhlpNN21jptkVKk7olqBTkdT49oL0pSEz2SptRsux7LocCU7+alGnEag==",
-      "path": "microsoft.extensions.hosting.abstractions/9.0.5",
-      "hashPath": "microsoft.extensions.hosting.abstractions.9.0.5.nupkg.sha512"
     },
     "Microsoft.Extensions.Http/9.0.5": {
       "type": "package",
@@ -1274,11 +1221,6 @@
       "sha512": ""
     },
     "Weather.Infrastructure/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Weather.Worker/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

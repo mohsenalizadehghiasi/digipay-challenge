@@ -9,7 +9,6 @@
 	<ItemGroup>
 		<ProjectReference Include="..\Weather.Application\Weather.Application.csproj" />
 		<ProjectReference Include="..\Weather.Infrastructure\Weather.Infrastructure.csproj" />
-		<ProjectReference Include="..\Weather.Worker\Weather.Worker.csproj" />
 	</ItemGroup>
 	
 </Project>

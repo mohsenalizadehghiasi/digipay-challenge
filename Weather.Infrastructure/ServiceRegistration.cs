@@ -19,13 +19,18 @@ namespace Weather.Infrastructure
 
             services.AddHttpClient<IWeatherProvider, OpenMeteoProvider>(client =>
             {
-                client.BaseAddress = new Uri(config.GetValue<string>("OpenMeteo:BaseUrl"));
+                client.BaseAddress = new Uri(config["OpenMeteo:BaseUrl"]);
                 client.Timeout = TimeSpan.FromSeconds(config.GetValue<int>("OpenMeteo:TimeoutSeconds"));
             })
             .AddTransientHttpErrorPolicy(policy => policy
                 .WaitAndRetryAsync(
                     retryCount: config.GetValue<int>("OpenMeteo:RetryCount"),
-                    sleepDurationProvider: retryAttempt => TimeSpan.FromSeconds(Math.Pow(2, retryAttempt))
+                    sleepDurationProvider: attempt => TimeSpan.FromSeconds(Math.Pow(2, attempt))
+                ))
+            .AddTransientHttpErrorPolicy(policy => policy
+                .CircuitBreakerAsync(
+                    handledEventsAllowedBeforeBreaking: 5,
+                    durationOfBreak: TimeSpan.FromSeconds(30)
                 ));
 
             return services;

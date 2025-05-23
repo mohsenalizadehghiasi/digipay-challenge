@@ -30,8 +30,8 @@ namespace Weather.WebApi.Controllers
                 return StatusCode(504, "Request timed out.");
             }
 
-            if (result == null)
-                return NoContent();
+            //if (result == null)
+            //    return NoContent();
 
             return Ok(result);
         }

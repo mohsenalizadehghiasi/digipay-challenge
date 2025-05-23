@@ -13,3 +13,4 @@ E:\DigipayChallenge\Weather.Application\obj\Debug\net8.0\Weather.Application.dll
 E:\DigipayChallenge\Weather.Application\obj\Debug\net8.0\refint\Weather.Application.dll
 E:\DigipayChallenge\Weather.Application\obj\Debug\net8.0\Weather.Application.pdb
 E:\DigipayChallenge\Weather.Application\obj\Debug\net8.0\ref\Weather.Application.dll
+E:\DigipayChallenge\Weather.Application\obj\Debug\net8.0\Weather.Application.sourcelink.json

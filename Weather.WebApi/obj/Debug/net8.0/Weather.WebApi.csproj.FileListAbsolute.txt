@@ -91,7 +91,4 @@ E:\DigipayChallenge\Weather.WebApi\obj\Debug\net8.0\refint\Weather.WebApi.dll
 E:\DigipayChallenge\Weather.WebApi\obj\Debug\net8.0\Weather.WebApi.pdb
 E:\DigipayChallenge\Weather.WebApi\obj\Debug\net8.0\Weather.WebApi.genruntimeconfig.cache
 E:\DigipayChallenge\Weather.WebApi\obj\Debug\net8.0\ref\Weather.WebApi.dll
-E:\DigipayChallenge\Weather.WebApi\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
-E:\DigipayChallenge\Weather.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
-E:\DigipayChallenge\Weather.WebApi\bin\Debug\net8.0\Weather.Worker.dll
-E:\DigipayChallenge\Weather.WebApi\bin\Debug\net8.0\Weather.Worker.pdb
+E:\DigipayChallenge\Weather.WebApi\obj\Debug\net8.0\Weather.WebApi.sourcelink.json

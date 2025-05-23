@@ -8,7 +8,6 @@ namespace Weather.Worker
         /// </summary>
         public static IServiceCollection AddWorker(this IServiceCollection services)
         {
-            services.AddHostedService<WeatherPoller>();
 
             return services;
         }

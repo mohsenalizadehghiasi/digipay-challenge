@@ -1,6 +1,6 @@
 using Weather.Application;
 using Weather.Infrastructure;
-using Weather.Worker;
+using Weather.WebApi.BackgroundServices;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddInfrastructure(builder.Configuration);
 builder.Services.AddApplication();
-builder.Services.AddWorker();
+builder.Services.AddHostedService<WeatherPoller>();
 
 builder.Services.AddControllers();
 

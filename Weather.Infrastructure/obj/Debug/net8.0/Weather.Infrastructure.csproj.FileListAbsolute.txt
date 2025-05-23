@@ -12,3 +12,4 @@ E:\DigipayChallenge\Weather.Infrastructure\obj\Debug\net8.0\refint\Weather.Infra
 E:\DigipayChallenge\Weather.Infrastructure\obj\Debug\net8.0\Weather.Infrastructure.pdb
 E:\DigipayChallenge\Weather.Infrastructure\obj\Debug\net8.0\Weather.Infrastructure.genruntimeconfig.cache
 E:\DigipayChallenge\Weather.Infrastructure\obj\Debug\net8.0\ref\Weather.Infrastructure.dll
+E:\DigipayChallenge\Weather.Infrastructure\obj\Debug\net8.0\Weather.Infrastructure.sourcelink.json

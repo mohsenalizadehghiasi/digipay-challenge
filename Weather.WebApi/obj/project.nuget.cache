@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "RJIu5YYRZ1g=",
+  "dgSpecHash": "5c4BIE4HpUM=",
   "success": true,
   "projectFilePath": "E:\\DigipayChallenge\\Weather.WebApi\\Weather.WebApi.csproj",
   "expectedPackageFiles": [
@@ -24,8 +24,6 @@
     "C:\\Users\\Raven\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512",
     "C:\\Users\\Raven\\.nuget\\packages\\microsoft.extensions.diagnostics\\9.0.5\\microsoft.extensions.diagnostics.9.0.5.nupkg.sha512",
     "C:\\Users\\Raven\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\9.0.5\\microsoft.extensions.diagnostics.abstractions.9.0.5.nupkg.sha512",
-    "C:\\Users\\Raven\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.5\\microsoft.extensions.fileproviders.abstractions.9.0.5.nupkg.sha512",
-    "C:\\Users\\Raven\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\9.0.5\\microsoft.extensions.hosting.abstractions.9.0.5.nupkg.sha512",
     "C:\\Users\\Raven\\.nuget\\packages\\microsoft.extensions.http\\9.0.5\\microsoft.extensions.http.9.0.5.nupkg.sha512",
     "C:\\Users\\Raven\\.nuget\\packages\\microsoft.extensions.http.polly\\9.0.5\\microsoft.extensions.http.polly.9.0.5.nupkg.sha512",
     "C:\\Users\\Raven\\.nuget\\packages\\microsoft.extensions.logging\\9.0.5\\microsoft.extensions.logging.9.0.5.nupkg.sha512",
